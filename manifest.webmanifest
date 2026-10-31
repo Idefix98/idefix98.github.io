@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "SaltaClip",
+  "short_name": "SaltaClip",
+  "description": "Crea e monta video verticali: idee, editor, template e basi musicali originali.",
+  "lang": "it",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#17102A",
+  "theme_color": "#17102A",
+  "categories": ["photo", "entertainment", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "icons/screen-home.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Schermata iniziale" },
+    { "src": "icons/screen-edit.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Editor video" }
+  ]
+}

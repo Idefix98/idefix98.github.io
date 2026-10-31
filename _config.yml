@@ -1,0 +1,2 @@
+# Serve a GitHub Pages: pubblica anche la cartella .well-known (necessaria per Google Play).
+include: [".well-known"]

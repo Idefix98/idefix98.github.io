@@ -1,4 +1,4 @@
-# SaltaClip
+# PopJump
 
 App per creare e montare video verticali: idee e formati, editor video, template e basi musicali originali.
 Funziona tutta sul telefono: nessun account, nessuna pubblicità, nessun dato raccolto.

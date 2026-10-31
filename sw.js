@@ -2,7 +2,7 @@
 // Codice e liste vengono prima cercati in rete (così gli aggiornamenti arrivano subito),
 // poi dalla copia salvata sul telefono.
 
-const CACHE = 'saltaclip-v1';
+const CACHE = 'popjump-v1';
 const SHELL = [
   './',
   'index.html',

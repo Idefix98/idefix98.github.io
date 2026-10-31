@@ -1,0 +1,88 @@
+{
+  "templates": [
+    {
+      "id": "prima-dopo",
+      "name": "Prima e dopo",
+      "description": "Mostra una trasformazione: due clip, una scritta per ciascuna.",
+      "music": "pop",
+      "slots": [
+        { "label": "Prima", "dur": 3, "caption": "PRIMA" },
+        { "label": "Dopo", "dur": 4, "caption": "DOPO" }
+      ]
+    },
+    {
+      "id": "tre-consigli",
+      "name": "3 consigli",
+      "description": "Un titolo e tre consigli veloci, uno per clip.",
+      "music": "chill",
+      "slots": [
+        { "label": "Titolo", "dur": 2.5, "caption": "", "hint": "Es. 3 consigli per studiare meglio" },
+        { "label": "Consiglio 1", "dur": 3, "caption": "", "hint": "Es. 1. Spegni le notifiche" },
+        { "label": "Consiglio 2", "dur": 3, "caption": "", "hint": "Es. 2. Pause da 5 minuti" },
+        { "label": "Consiglio 3", "dur": 3, "caption": "", "hint": "Es. 3. Ripeti ad alta voce" }
+      ]
+    },
+    {
+      "id": "pov",
+      "name": "POV",
+      "description": "Una sola clip con la scritta POV in alto: racconta una situazione in cui tutti si riconoscono.",
+      "music": "lofi",
+      "captionStyle": { "y": 0.14, "size": 54 },
+      "slots": [
+        { "label": "La tua reazione", "dur": 7, "caption": "POV: ", "hint": "POV: ..." }
+      ]
+    },
+    {
+      "id": "giornata",
+      "name": "La mia giornata",
+      "description": "Cinque momenti della giornata, ognuno con il suo orario.",
+      "music": "lofi",
+      "captionStyle": { "y": 0.12, "size": 52 },
+      "slots": [
+        { "label": "Mattina", "dur": 2, "caption": "7:30" },
+        { "label": "Metà mattina", "dur": 2, "caption": "10:00" },
+        { "label": "Pranzo", "dur": 2, "caption": "13:00" },
+        { "label": "Pomeriggio", "dur": 2, "caption": "17:00" },
+        { "label": "Sera", "dur": 2.5, "caption": "21:00" }
+      ]
+    },
+    {
+      "id": "tutorial",
+      "name": "Tutorial in 4 passi",
+      "description": "Insegna qualcosa in quattro passaggi brevi.",
+      "music": "pop",
+      "slots": [
+        { "label": "Passo 1", "dur": 3, "caption": "Passo 1" },
+        { "label": "Passo 2", "dur": 3, "caption": "Passo 2" },
+        { "label": "Passo 3", "dur": 3, "caption": "Passo 3" },
+        { "label": "Risultato", "dur": 3.5, "caption": "Fatto!" }
+      ]
+    },
+    {
+      "id": "ricetta",
+      "name": "Ricetta veloce",
+      "description": "Dagli ingredienti al piatto pronto in quattro scene.",
+      "music": "chill",
+      "slots": [
+        { "label": "Ingredienti", "dur": 3, "caption": "Ingredienti" },
+        { "label": "Preparazione", "dur": 3.5, "caption": "Si prepara" },
+        { "label": "Cottura", "dur": 3, "caption": "Si cuoce" },
+        { "label": "Piatto pronto", "dur": 3.5, "caption": "Pronto!" }
+      ]
+    },
+    {
+      "id": "foto-ritmo",
+      "name": "Foto a ritmo",
+      "description": "Sei foto o clip che cambiano a tempo di musica.",
+      "music": "pop",
+      "slots": [
+        { "label": "Foto 1", "dur": 1.1, "caption": "" },
+        { "label": "Foto 2", "dur": 1.1, "caption": "" },
+        { "label": "Foto 3", "dur": 1.1, "caption": "" },
+        { "label": "Foto 4", "dur": 1.1, "caption": "" },
+        { "label": "Foto 5", "dur": 1.1, "caption": "" },
+        { "label": "Foto 6", "dur": 1.6, "caption": "" }
+      ]
+    }
+  ]
+}

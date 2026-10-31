@@ -1,0 +1,91 @@
+{
+  "title": "Idee e formati",
+  "intro": "Formati che funzionano bene nei video brevi, ognuno con un template pronto da riempire.",
+  "updated": "2026-10-31",
+  "items": [
+    {
+      "title": "Prima e dopo",
+      "description": "Mostra un cambiamento: si capisce in un secondo e invoglia a guardare fino alla fine.",
+      "ideas": ["camera riordinata", "disegno dallo schizzo al colore", "nuova acconciatura", "pianta cresciuta"],
+      "steps": [
+        "Riprendi la situazione di partenza, sempre dalla stessa posizione.",
+        "Riprendi il risultato finale con la stessa inquadratura.",
+        "Apri il template e metti le due clip negli spazi."
+      ],
+      "hashtags": ["#primaedopo", "#trasformazione", "#beforeandafter"],
+      "template": "prima-dopo"
+    },
+    {
+      "title": "Tre consigli veloci",
+      "description": "Un titolo che promette qualcosa di utile e tre consigli brevi. Chi guarda resta per scoprirli tutti.",
+      "ideas": ["studiare meglio", "risparmiare la paghetta", "fare foto migliori col telefono"],
+      "steps": [
+        "Scegli un argomento che conosci bene.",
+        "Scrivi tre consigli di una riga ciascuno.",
+        "Gira una clip per consiglio, oppure lascia gli spazi vuoti e usa solo le scritte."
+      ],
+      "hashtags": ["#consigli", "#trucchi", "#imparaqualcosa"],
+      "template": "tre-consigli"
+    },
+    {
+      "title": "POV",
+      "description": "La scritta in alto racconta una situazione in cui tutti si riconoscono, il video mostra la tua reazione.",
+      "ideas": ["POV: suona la sveglia il lunedì", "POV: la prof dice interrogazione a sorpresa", "POV: arriva finalmente il venerdì"],
+      "steps": [
+        "Pensa a una situazione comune e un po' esagerata.",
+        "Riprendi solo la tua reazione, senza parlare.",
+        "Scrivi il POV nel template e scegli la base Lo-fi."
+      ],
+      "hashtags": ["#pov", "#relatable", "#scuola"],
+      "template": "pov"
+    },
+    {
+      "title": "La mia giornata",
+      "description": "Cinque momenti brevi con l'orario: un racconto semplice che fa sentire chi guarda parte della tua giornata.",
+      "ideas": ["giornata di scuola", "giornata di sport", "domenica in famiglia"],
+      "steps": [
+        "Durante la giornata gira una clip di due secondi per ogni momento.",
+        "Correggi gli orari nelle scritte del template.",
+        "Crea il video con una base Lo-fi."
+      ],
+      "hashtags": ["#giornatatipo", "#dayinmylife", "#routine"],
+      "template": "giornata"
+    },
+    {
+      "title": "Tutorial in 4 passi",
+      "description": "Insegna una cosa pratica in pochi secondi: i video che si possono salvare e rivedere girano a lungo.",
+      "ideas": ["un nodo per le scarpe", "un origami facile", "un trucco per la tastiera"],
+      "steps": [
+        "Dividi il procedimento in tre passi più il risultato.",
+        "Gira ogni passo da vicino, con buona luce.",
+        "Riempi il template e cambia le scritte se servono."
+      ],
+      "hashtags": ["#tutorial", "#comefare", "#diy"],
+      "template": "tutorial"
+    },
+    {
+      "title": "Ricetta veloce",
+      "description": "Dagli ingredienti al piatto pronto in quattro scene, senza perdere tempo.",
+      "ideas": ["toast farcito", "smoothie alla frutta", "biscotti senza forno"],
+      "steps": [
+        "Metti tutti gli ingredienti sul tavolo e riprendili dall'alto.",
+        "Gira preparazione e cottura in clip brevi.",
+        "Chiudi con il piatto pronto e la scritta finale."
+      ],
+      "hashtags": ["#ricetta", "#ricettefacili", "#cucina"],
+      "template": "ricetta"
+    },
+    {
+      "title": "Foto a ritmo",
+      "description": "Sei foto che cambiano a tempo di musica: perfetto per ricordi, viaggi e serate con gli amici.",
+      "ideas": ["gita di classe", "estate al mare", "compleanno"],
+      "steps": [
+        "Scegli sei foto che raccontano un momento.",
+        "Mettile in ordine negli spazi del template.",
+        "Lascia la base Pop: il cambio foto segue il ritmo."
+      ],
+      "hashtags": ["#ricordi", "#fotodump", "#amici"],
+      "template": "foto-ritmo"
+    }
+  ]
+}

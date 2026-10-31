@@ -509,7 +509,7 @@ function showResult({ blob, type, ext, duration }) {
   const url = URL.createObjectURL(blob);
   const d = new Date();
   const stamp = `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, '0')}${String(d.getDate()).padStart(2, '0')}-${String(d.getHours()).padStart(2, '0')}${String(d.getMinutes()).padStart(2, '0')}${String(d.getSeconds()).padStart(2, '0')}`;
-  const name = `saltaclip-${stamp}.${ext}`;
+  const name = `popjump-${stamp}.${ext}`;
   const file = new File([blob], name, { type });
   const canShare = !!(navigator.canShare && navigator.canShare({ files: [file] }));
   openOverlay(`
